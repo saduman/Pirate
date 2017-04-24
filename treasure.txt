@@ -2,3 +2,5 @@
   Diamonds
   Crown Jewels
   Parrot
+ bok
+pusur
